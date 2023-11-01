@@ -13,7 +13,4 @@ public class ICICIBank implements BankInterface{
         return 0;
     }
 
-    public void accountEnquiry(){
-
-    }
 }
